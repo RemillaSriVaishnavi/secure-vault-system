@@ -1,0 +1,22 @@
+{
+  "name": "secure-vault-system",
+  "version": "1.0.0",
+  "description": "This project implements a **secure, two-contract vault system** that separates **asset custody** from **withdrawal authorization**, reflecting real-world decentralized architecture patterns.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^3.1.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "ethers": "^6.16.0"
+  }
+}
