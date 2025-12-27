@@ -67,7 +67,6 @@ recipient,
 amount,
 nonce
 )
-
 ```
 
 This ensures:
@@ -221,7 +220,6 @@ The local blockchain RPC endpoint is available at:
 
 ```
 http://localhost:8545
-
 ```
 
 This can be used for testing, inspection, or integration.
